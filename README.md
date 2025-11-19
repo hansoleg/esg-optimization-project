@@ -19,6 +19,3 @@ The purpose is to see how introducing an ESG constraint affects both the risk–
 4. Applies ESG constraints above and below the baseline level  
 5. Compares the resulting portfolios and visualizes the differences
 
-## Requirements
-The notebook uses the following Python libraries:
-
